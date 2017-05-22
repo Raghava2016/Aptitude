@@ -1,0 +1,47 @@
+22-May-2017
+
+1) The average of 25 members is 18.The average of first 12 of them is 14,and that of last 12 is 17.Find the thirteenth result?
+
+Ans:    Average = Total sum of participants/no.of participants
+        18 = Total sum of participants / 25;
+        total sum of participants = 18 * 25;
+        Total sum of first 12 items = 14 * 12;
+        Total sum of last 12 items = 17 * 12;
+
+        Therefore 13th item = Total sum of 25 items - (sum of first 12 items + sum of last 12 items);
+                            = 450 - (168 + 204);
+                            = 450 - 372
+                            = 78
+
+        Value of 13th item is 78.
+---------------------------------------------------------------------------------------------------------------
+2) The average of 11 results is 60. if the average of first 6 results is 58 and that of the last six is 63. find the sixth result.
+   
+Ans:   Total sum of 11 items = 60 * 11 = 660;
+       Total sum of first 6 items = 6 * 58 = 348;
+       Total sum of last 6 itesm = 6 * 63 = 378;
+
+       Sixth item is  = 726 - 660 = 66
+
+---------------------------------------------------------------------------------------------------------------
+3) The average weight of A,B,C is 45 kg. if the average weight of A and B be 40 kg and that of B and C be 43 kg, find the weight of B.
+
+Ans:  Total weight of A,B and c is 45 * 3 = 135kg.
+      Total weight of A and B is 80 kg.
+      Total weight of B and C is 86 kg.
+
+      A+B+c = 135;
+      80+c = 135;
+      C = 55;
+      B = 31;
+      A = 49;
+---------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
